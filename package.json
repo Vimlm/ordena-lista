@@ -1,0 +1,14 @@
+{
+  "name": "ordena-lista",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Vimlm/ordena-css.git",
+  "author": "Victor Martins <VictorMLMartins@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/controller/property.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
